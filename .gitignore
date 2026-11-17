@@ -1,0 +1,11 @@
+*.db
+assets/external/
+.states
+.web
+*.py[cod]
+__pycache__/
+.env
+command_order.txt
+computer_old.py
+terminal_agent.py
+test.py
